@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\workspaces\MessageEvent\MessageDemo\build\intermediates\exploded-aar\MessageEvent\EventMessageCore\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9059e8a8b96a7b2376df25cc5a2e4ce1d9590f4c">
+        <dex dex="F:\workspaces\MessageEvent\MessageDemo\build\intermediates\pre-dexed\debug\classes-fe360d2337a9e2ab005e8b623ab0076e09550647.jar" />
+    </item>
+
+</items>
